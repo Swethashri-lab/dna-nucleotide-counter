@@ -1,13 +1,21 @@
-# dna-nucleotide-counter
-My first bioinformatics project — counts nucleotides in a DNA sequence
-# DNA Nucleotide Counter
+# DNA Analysis Tools
 
-## What this does
-Counts the number of A, T, G, C nucleotides in a DNA sequence.
+My first bioinformatics project — built while learning NGS and transcriptomics.
 
-## Why it matters
-Nucleotide composition is a basic but important property of DNA sequences
-used in genome analysis.
+## Tools Included
 
-## How to run
-Paste your DNA sequence into the function and run in Google Colab.
+### 1. Nucleotide Counter (Day 1)
+Counts A, T, G, C bases in any DNA sequence.
+
+### 2. GC Content Calculator (Day 2)
+Calculates GC percentage and gives biological interpretation.
+High GC = stable DNA. Low GC = less stable DNA.
+
+## How to Run
+Open gc_content_calculator.py in Google Colab and paste any DNA sequence.
+
+## Skills Used
+- Python 3
+- String manipulation
+- Conditional logic
+- Biological sequence analysis
