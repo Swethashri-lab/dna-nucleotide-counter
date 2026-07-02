@@ -19,3 +19,11 @@ Open gc_content_calculator.py in Google Colab and paste any DNA sequence.
 - String manipulation
 - Conditional logic
 - Biological sequence analysis
+
+Transcribes DNA to RNA, finds complement and reverse complement.
+- DNA → RNA transcription
+- Complement strand finder
+- Reverse complement calculator
+- File: dna_rna_tools.py
+
+
